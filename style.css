@@ -1,0 +1,41 @@
+span{
+    font-size: 30;
+}
+
+body{
+    background-color: aqua;
+}
+
+#gesture{
+    font-size: 35px;
+    width: 75%;
+    border-radius: 50%;
+}
+
+#camera{
+    border: 5px;
+    border-style: dotted;
+    border-color: white;
+    width: 350px;
+    height: 300px;
+}
+
+#result{
+    border: 5px;
+    border-style: dotted;
+    border-color: white;
+    width: 350px;
+    height: 300px;
+   margin-left: 400px;
+   margin-top: -90px;
+}
+
+#check_button{
+    margin-left: 535px;
+    margin-top: -20px;
+}
+
+#snap{
+    margin-left: 550px;
+    margin-top: -115;
+}
